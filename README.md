@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hello World
+
+I am Federico Mtz, I am a student developer from Mexico. I make iOS apps with swift, use python for servers and scripts, and use C/C++ for Arduino/ESP projects.
+Follow me on Twitter [@mtz_federico](https://twitter.com/mtz_federico)
+
+
+![mtzfederico's github stats](https://github-readme-stats.vercel.app/api?username=mtzfederico&show_icons=true&theme=merko)
+
+[![Twitter followers](https://img.shields.io/twitter/follow/mtz_federico?label=Followers&style=social)](https://twitter.com/mtz_federico)
+[![GitHub followers](https://img.shields.io/github/followers/mtzfederico?label=Followers&style=social)](https://github.com/mtzfederico/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtzfederico" alt="mtzfederico" /> </p>
 
 <!--
-**mtzfederico/mtzfederico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
