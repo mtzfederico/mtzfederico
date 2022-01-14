@@ -1,6 +1,6 @@
 ### Hello World
 
-Hello my name is Federico Mtz, I am a student developer from Mexico. I make iOS apps with swift, use python for servers and scripts, and use C/C++ for Arduino/ESP projects.
+Hello, my name is Federico Mtz, I am a student developer from Mexico. I make iOS apps with swift, use python and Go for servers and scripts, use C/C++ for Arduino/ESP projects.
 Follow me on Twitter [@mtz_federico](https://twitter.com/mtz_federico)
 
 
