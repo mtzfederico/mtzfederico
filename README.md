@@ -4,8 +4,6 @@ My name is Federico Martinez, I am a student developer from Mexico. I make iOS a
 
 I operate an IPv6 only network under [AS209245](https://as209245.net?src=gh-profile)
 
-![mtzfederico's github stats](https://github-readme-stats.vercel.app/api?username=mtzfederico&show_icons=true&theme=merko)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtzfederico" alt="mtzfederico" /> </p>
 
 <!--
