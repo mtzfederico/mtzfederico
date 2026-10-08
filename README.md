@@ -1,6 +1,6 @@
 ### Hello World!!
 
-My name is Federico Martinez, I am a student developer from Mexico. I make iOS apps with swift, use Go for backend stuff, and use C/C++ for Arduino/ESP projects.
+My name is Federico Martinez, I am a software developer from Mexico. I make iOS apps with swift, use Go for backend stuff, and use C/C++ for Arduino/ESP projects.
 
 I operate an IPv6 only network under [AS209245](https://as209245.net?src=gh-profile)
 
